@@ -1,6 +1,6 @@
 # Cookie Club
 
-Cookie Club is a *Cookie Clicker*-style game built with Vue 3. Click to bake cookies, invest in upgrades, and compare your progress with other players.
+CookieClciker is a cookie clicker game built with Vue 3. Click to bake cookies, invest in upgrades, and compare your progress with other players.
 
 ## Features
 
@@ -29,18 +29,6 @@ npm run dev
 
 Vite prints the local URL to open in your browser, usually `http://localhost:5173`.
 
-To create a production build:
-
-```sh
-npm run build
-```
-
-To preview the production build:
-
-```sh
-npm run preview
-```
-
 ## Demo administrator account
 
 - Username: `Admin`
@@ -52,7 +40,7 @@ This administrator account is created automatically when the game starts with em
 
 Accounts, passwords, scores, and games are stored in the browser's `localStorage`. Data is not shared between browsers or devices. This local sign-in is for demonstration purposes and does not provide server-grade account security; do not use a sensitive password.
 
-## Technologies
+## Technologies used 
 
 - Vue 3
 - Vuex
