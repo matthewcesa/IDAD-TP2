@@ -1,5 +1,6 @@
 import { createStore } from 'vuex'
+import cookies from './modules/cookies'
 
 export default createStore({
-  state: { cookies: 0 }
+  modules: { cookies }
 })
